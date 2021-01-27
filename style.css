@@ -109,3 +109,9 @@ body{
     }
 }
 
+.footer {
+    color: black;
+    text-align: center;
+    height: 30px;
+    padding: 5px;
+  }
